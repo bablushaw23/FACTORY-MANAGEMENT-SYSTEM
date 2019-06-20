@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<GBEXTINFO>
+  <!--connection string starts-->
+  <ConnectionString>Data Source=BABLU-PC\BABLU;Initial Catalog=AMW;Integrated Security=True</ConnectionString>
+  <VAT>14.5</VAT>
+  <billingMessage>Thank you.Visit Again</billingMessage>
+</GBEXTINFO>
